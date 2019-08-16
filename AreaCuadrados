@@ -5,11 +5,11 @@
 using namespace std;
 
  void main()
-{float x,area;
+{float lado,area;
  cout<<"Hallar el area de un cudrado"
- cout<<"numero:";
- cin>>x;
- area=x*x;
+ cout<<"lado:";
+ cin>>lado;
+ area=lado*lado;
  cout<<"area:"<<area;
 getch();
  }
