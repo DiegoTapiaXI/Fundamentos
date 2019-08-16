@@ -1,0 +1,15 @@
+#include "stdafx.h"
+#include <iostream>
+#include"conio.h"
+using namespace std;
+
+ void main()
+{float x,z,suma;
+ cout<<"numero:";
+ cin>>x;
+ cout<<"numero:";
+ cin>>z;
+ suma=x+z;
+ cout<<"suma:"<<suma;
+getch();
+ }
