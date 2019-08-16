@@ -5,12 +5,12 @@
 using namespace std;
 
  void main()
-{float x,z,area;
+{float base,altura,area;
  cout<<"Hallar el area de un rectangulo"
- cout<<"numero:";
- cin>>x;
- cout<<"numero:";
- cin>>z;
+ cout<<"base:";
+ cin>>base;
+ cout<<"altura:";
+ cin>>altura;
  area=x*z;
  cout<<"area:"<<area;
 getch();
