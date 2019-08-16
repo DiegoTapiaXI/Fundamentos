@@ -10,6 +10,6 @@ using namespace std;
  cout<<"numero:";
  cin>>x;
  area=x*x;
- cout<<"suma:"<<suma;
+ cout<<"area:"<<area;
 getch();
  }
