@@ -1,0 +1,17 @@
+//AREA rectangulo
+#include "stdafx.h"
+#include <iostream>
+#include"conio.h"
+using namespace std;
+
+ void main()
+{float x,z,area;
+ cout<<"Hallar el area de un rectangulo"
+ cout<<"numero:";
+ cin>>x;
+ cout<<"numero:";
+ cin>>z;
+ area=x*z;
+ cout<<"area:"<<area;
+getch();
+ }
