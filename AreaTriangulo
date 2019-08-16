@@ -1,0 +1,17 @@
+//AREA Triangulo
+#include "stdafx.h"
+#include <iostream>
+#include"conio.h"
+using namespace std;
+
+ void main()
+{float base,altura,area;
+ cout<<"Hallar el area de un triangulo"
+ cout<<"base:";
+ cin>>base;
+ cout<<"altura:";
+ cin>>altura;
+ area=(base*altura)/2;
+ cout<<"area:"<<area;
+getch();
+ }
