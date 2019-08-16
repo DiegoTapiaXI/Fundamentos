@@ -1,0 +1,15 @@
+//AREA CUADRADO
+#include "stdafx.h"
+#include <iostream>
+#include"conio.h"
+using namespace std;
+
+ void main()
+{float x,area;
+ cout<<"Hallar el area de un cudrado"
+ cout<<"numero:";
+ cin>>x;
+ area=x*x;
+ cout<<"suma:"<<suma;
+getch();
+ }
