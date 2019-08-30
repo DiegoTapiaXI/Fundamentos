@@ -1,0 +1,14 @@
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+int main()
+{int p1,p2,p3,np,pf,nota;
+cout<<"Digite p1,p2,p3,np,pf"<<endl;
+cin>>p1>>p2>>p3>>np>>pf;
+nota=(np*0.20)+(((p1+p2+p3)/3)*0.40)+(pf*0.40);
+cout<<"nota:"<<nota;
+
+getch();
+}
