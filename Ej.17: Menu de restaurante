@@ -23,4 +23,5 @@ switch(opcion)
      }
 cout<<"costo:"<<costo*cantidad;
 getch();
+return 0;
 }
