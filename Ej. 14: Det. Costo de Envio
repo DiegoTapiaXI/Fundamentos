@@ -27,4 +27,5 @@ else
             }
     }// }del 1º else
 getch();
+return 0;
 }
